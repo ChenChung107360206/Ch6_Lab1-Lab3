@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\c_code\ch6_lab1\source\main.c(10): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+  c:\c_code\ch6_lab1\source\main.c(10): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\c_code\ch6_lab1\source\main.c(10): note: 缺少 variadic 引數 2 (其為格式字串 '%s' 所需)
+  c:\c_code\ch6_lab1\source\main.c(10): note: 此引數可用為緩衝區大小
+c:\c_code\ch6_lab1\source\main.c(19): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  c:\c_code\ch6_lab1\source\main.c(19): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 0 個
+  c:\c_code\ch6_lab1\source\main.c(19): note: 缺少 variadic 引數 1 (其為格式字串 '%d' 所需)
+c:\c_code\ch6_lab1\source\main.c(21): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  c:\c_code\ch6_lab1\source\main.c(21): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 0 個
+  c:\c_code\ch6_lab1\source\main.c(21): note: 缺少 variadic 引數 1 (其為格式字串 '%d' 所需)
+c:\c_code\ch6_lab1\source\main.c(24): warning C4098: 'main': 'void' 函式正在傳回值
+  Ch6_Lab1.vcxproj -> C:\c_code\Ch6_Lab1\Ch6_Lab1\Ch6_Lab1\..\..\temp\debug\Ch6_Lab1.exe
